@@ -1,10 +1,12 @@
-Adaptado a mis monitores y aplicaciones que utilizo, actualizado para la version de Hyprland que utilizo.
-Version de Hyprland:0.53.0
-Version de Wayland: wayland-scanner 1.24.0
+I mantain and update dotfiles and adapt to my needs (monitors,apps) and the hyprland and wayland version that I got.
+Hyprland version:0.53.0
+Wayland version: wayland-scanner 1.24.0
 
-Fork del repositorio de: https://github.com/luismendozamx/dotfiles
-Autor: https://github.com/luismendozamx
-# Luis Mendoza - Dotfiles
+Original repository: https://github.com/luismendozamx/dotfiles
+Author: https://github.com/luismendozamx
+
+#Installation guide by Luis Mendoza
+# Dotfiles
 
 These are a collection of personal scripts and configs I have collected over the years, I use them to maintain a standard environment across my machines. Feel free to copy, clone, take inspiration, or do whatever you want with them.
 
@@ -39,11 +41,9 @@ cd ~/dev/config/dotfiles
 ## What's Included
 
 - **Shell**: Zsh configuration with custom themes and aliases
-- **Terminal**: Ghostty, Kitty, and iTerm2 configurations
+- **Terminal**: Ghostty and Kitty configurations
 - **Window Manager**: Hyprland setup with Waybar and Wofi (Linux)
 - **Editor**: VSCode and Cursor settings
-- **Git**: Global Git configuration
-- **Terminal Multiplexer**: Zellij layouts and configuration
 - **Utilities**: Custom scripts in `bin/`
 
 ## Structure
