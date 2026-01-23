@@ -1,3 +1,9 @@
+Adaptado a mis monitores y aplicaciones que utilizo, actualizado para la version de Hyprland que utilizo.
+Version de Hyprland:0.53.0
+Version de Wayland: wayland-scanner 1.24.0
+
+Fork del repositorio de: https://github.com/luismendozamx/dotfiles
+Autor: https://github.com/luismendozamx
 # Luis Mendoza - Dotfiles
 
 These are a collection of personal scripts and configs I have collected over the years, I use them to maintain a standard environment across my machines. Feel free to copy, clone, take inspiration, or do whatever you want with them.
@@ -10,11 +16,8 @@ This scripts assumes you have the following installed:
 
 * zsh
 * oh-my-zsh
-* starship
-* VSCode or Cursor
 * git
-* mise
-* neovim using NvChad 
++* neovim using NvChad 
 
 ## Platform Support
 
@@ -47,15 +50,12 @@ cd ~/dev/config/dotfiles
 
 ```
 ├── bin/           # Utility scripts
-├── cursor/        # Cursor editor setup
 ├── ghostty/       # Ghostty terminal config
 ├── git/           # Git configuration
 ├── hypr/          # Hyprland window manager (Linux)
 ├── kitty/         # Kitty terminal config
-├── vscode/        # VSCode settings
 ├── waybar/        # Status bar config (Linux)
 ├── wofi/          # App launcher (Linux)
-├── zellij/        # Terminal multiplexer
 └── zsh/           # Shell configuration
 ```
 
