@@ -7,7 +7,7 @@ I mantain and update dotfiles and adapt to my needs (monitors,apps) and the hypr
 # Original Links
 * Original repository: https://github.com/luismendozamx/dotfiles
 * Author: https://github.com/luismendozamx
-
+Prueba
 # Installation guide by Luis Mendoza
 # Dotfiles
 
