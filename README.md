@@ -1,9 +1,9 @@
 I mantain and update dotfiles and adapt to my needs (monitors,apps) and the hyprland and wayland version that I got.
 * Hyprland version:0.53.0
 * Wayland version: wayland-scanner 1.24.0
-
-Original repository: https://github.com/luismendozamx/dotfiles
-Author: https://github.com/luismendozamx
+# Original Links
+* Original repository: https://github.com/luismendozamx/dotfiles
+* Author: https://github.com/luismendozamx
 
 # Installation guide by Luis Mendoza
 # Dotfiles
