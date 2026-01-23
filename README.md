@@ -1,6 +1,9 @@
 I mantain and update dotfiles and adapt to my needs (monitors,apps) and the hyprland and wayland version that I got.
-* Hyprland version:0.53.0
+* OS: Arch Linux x86_64
+* Hyprland version:0.53.2
 * Wayland version: wayland-scanner 1.24.0
+* Terminal version (Ghostty): 1.2.3-2
+* Sheel: zhs 5.9
 # Original Links
 * Original repository: https://github.com/luismendozamx/dotfiles
 * Author: https://github.com/luismendozamx
