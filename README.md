@@ -33,8 +33,6 @@ This configs can be used on Linux and/or macOS. The linux configs also support H
 
 Linux with Hyprland
 
-![Screenshot](./screenshot.png)
-
 ## Quick Setup
 
 ```bash
