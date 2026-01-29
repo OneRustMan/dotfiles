@@ -4,14 +4,14 @@ I mantain and update dotfiles and adapt to my needs (monitors,apps) and the hypr
 * Wayland version: wayland-scanner 1.24.0
 * Terminal version (Ghostty): 1.2.3-2
 * Sheel: zhs 5.9
-# Original Links
-* Original repository: https://github.com/luismendozamx/dotfiles
+# Initial Repository Link:
+* Repository: https://github.com/luismendozamx/dotfiles
 * Author: https://github.com/luismendozamx
 
 After Hyprland 0.53.0 windowsrulev1/v2 are deprecated and only accept windowsrule i update with this page that convert olds rules deprecated in windowsrule.
 *Link: https://itsohen.github.io/hyprrulefix/
 More information in hyprland wiki in the section of windows rules and workspace rules, don't forget select the version of hyprland ^0.53.0.
-# Installation guide by Luis Mendoza
+# Starter Installation guide by Luis Mendoza
 # Dotfiles
 
 These are a collection of personal scripts and configs I have collected over the years, I use them to maintain a standard environment across my machines. Feel free to copy, clone, take inspiration, or do whatever you want with them.
